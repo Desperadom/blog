@@ -1,6 +1,6 @@
 blog
 ====
 
-请访问：http://desperadom.github.io/
+请访问：http://sumireming.github.io/
 
-目前这个site还比较土，我会努力克服拖延症滴么么哒
+随便记录一些技术相关文章
