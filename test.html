@@ -9,13 +9,11 @@ title: About
   <script>
     
     function callback() {
-      alert(222)
-       FddAuthCallback.postMessage('');
+       FddCallback.postMessage('auth');
     }
     
     window.onload = function() {
-      alert(111)
-      FddAuthCallback.postMessage('');
+      FddCallback.postMessage('sign');
     }
   </script>
 
