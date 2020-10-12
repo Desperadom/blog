@@ -1,0 +1,22 @@
+---
+layout: default
+title: About
+---
+
+<div>
+  <h1>test</h1>
+  <a onclick="callback()" style="font-size: 32px">点我点我</a>
+  <script>
+    
+    function callback() {
+       FddCallback.postMessage('sign');
+    }
+    
+    window.onload = function() {
+      FddCallback.postMessage('sign');
+    }
+  </script>
+
+</div>
+
+
